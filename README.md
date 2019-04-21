@@ -44,6 +44,7 @@ tox -e pdf -- french
 * [David Black blog](http://dngnsndrgns.blogspot.fr/),
 * [Square Hex](http://squarehex.myshopify.com/),
 * The (very successful) [Kickstarter campaign](https://www.kickstarter.com/projects/1730454032/the-black-hack),
-* [The Black Hack G+ Community](https://plus.google.com/communities/107832933727516137622),
+* [The Black Hack MeWe community](https://mewe.com/join-front/the_black_hack),
+* [The Black Hack subreddit](https://www.reddit.com/r/TheBlackHack/),
 * [The Open Gaming License](http://www.opengamingfoundation.org/ogl.html).
 * [The Black Hack 2e Booklet by sdsalyer](https://github.com/sdsalyer/The_Black_Hack_2e_Booklet_MD_1.0)
